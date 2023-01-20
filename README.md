@@ -1,1 +1,16 @@
 # discography-tool-software
+Nástroj pro verifikaci diskografických dat
+
+Jedná se o univerzální přehrávací modul - software, který je zakomponovaný prostřednictvím API do systému Kramerius. Samotný přehrávač je nezávislou komponentou. Modul přehrává fyzický soubor v běžných komerčních formátech a standardech (mp3, mpeg-4 audio, wav), ke kterému má přístup, a také přehrává streamovaný obsah. Modul umožňuje výhledávat a procházet alba, umělce, žánry a sklady. Přehrávat skladby přes integrovaný přehrávač, vytvářet frontu skladeb a po přihlášení si mohou uživatelé vytvářet vlastní playlisty a přidávat alba a umělce do své knihovny.
+
+Dokumentace/manuál je k dispozici prostřednictvím wiki: 
+
+Přehrávač zobrazuje další informace o objektu načtené prostřednictvím importních setů diskografických dat. Součástí systému je serverová vrstva, která sjednocuje data z jednotlivých vydavatelů a ukládá uživatelské informace - playlisty a knihovnu.
+
+Nástroj pro verifikaci diskografických dat je volně dostupný pod licenci GNU GPL v3. http://www.gnu.org/licenses/gpl-3.0.en.htm ().
+
+Vytvoření Nástroje pro verifikaci diskografických dat (Národní diskografická databáze - původní název schválený MK ČR) bylo podpořeno z programu MK ČR NAKI II v rámci realizace projektu „Nový fonograf: naslouchejme zvuku historie“ (DG18P02OVV032).
+Portál Diskografická databáze
+Vyvinutý software je aplikován na portále Diskografická databáze http://diskografie.nm.cz/ , kde je možné funkcionalitu testovat na reálných datech vytvořených/importovaných diskografických datech (popisných metadat o nahrávkách daného vydavatelství)
+
+Portál je dostupný .
