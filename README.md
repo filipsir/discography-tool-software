@@ -12,6 +12,7 @@ Nástroj pro verifikaci diskografických dat je volně dostupný pod licenci GNU
 Vytvoření Nástroje pro verifikaci diskografických dat (Národní diskografická databáze - původní název schválený MK ČR) bylo podpořeno z programu MK ČR NAKI II v rámci realizace projektu „Nový fonograf: naslouchejme zvuku historie“ (DG18P02OVV032).
 
 Portál Diskografická databáze
+
 Vyvinutý software je aplikován na portále Diskografická databáze http://diskografie.nm.cz/ , kde je možné funkcionalitu testovat na reálných vytvořených/importovaných diskografických datech  (popisná metadata o nahrávkách daného vydavatelství)
 
 Portál je dostupný http://diskografie.nm.cz/
