@@ -10,7 +10,8 @@ Přehrávač zobrazuje další informace o objektu načtené prostřednictvím i
 Nástroj pro verifikaci diskografických dat je volně dostupný pod licenci GNU GPL v3. http://www.gnu.org/licenses/gpl-3.0.en.htm ().
 
 Vytvoření Nástroje pro verifikaci diskografických dat (Národní diskografická databáze - původní název schválený MK ČR) bylo podpořeno z programu MK ČR NAKI II v rámci realizace projektu „Nový fonograf: naslouchejme zvuku historie“ (DG18P02OVV032).
-Portál Diskografická databáze
-Vyvinutý software je aplikován na portále Diskografická databáze http://diskografie.nm.cz/ , kde je možné funkcionalitu testovat na reálných datech vytvořených/importovaných diskografických datech (popisných metadat o nahrávkách daného vydavatelství)
 
-Portál je dostupný .
+Portál Diskografická databáze
+Vyvinutý software je aplikován na portále Diskografická databáze http://diskografie.nm.cz/ , kde je možné funkcionalitu testovat na reálných vytvořených/importovaných diskografických datech  (popisná metadata o nahrávkách daného vydavatelství)
+
+Portál je dostupný http://diskografie.nm.cz/
