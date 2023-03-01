@@ -1,7 +1,7 @@
 # discography-tool-software
 Nástroj pro verifikaci diskografických dat
 
-Jedná se o univerzální nástroj pro verifikaci diskografických dat - software, který je zakomponovaný prostřednictvím zdrojového kódu do portálu Diskografická databáze. Samotný nástroj je nezávislou komponentou napsaný v programovacím jazyce PHP. 
+Jedná se o univerzální nástroj pro verifikaci diskografických dat - software, který je zakomponovaný prostřednictvím zdrojového kódu do portálu Diskografická databáze. Samotný nástroj je nezávislou komponentou. 
 
 Softwarový nástroj umožňující automatickou kontrolu kompletnosti diskografického záznamu a jeho online opravy koncovým uživatelem. Vyvinutý software byl ověřen a aktuálně používán na portále Diskografická databáze, kde je možné funkcionalitu testovat na vytvořených či importovaných diskografických datech (popisná metadata o nahrávkách daného vydavatelství).
 
