@@ -9,7 +9,7 @@ Portál je dostupný http://diskografie.nm.cz/
 
 Dokumentace/manuál je k dispozici prostřednictvím wiki: https://github.com/filipsir/discography-tool-software/wiki
 
-Software je volně dostupný pod licenci GNU GPL v3. http://www.gnu.org/licenses/gpl-3.0.en.htm ().
+Software je volně dostupný pod licenci GNU GPL v3. [http://www.gnu.org/licenses/gpl-3.0.en.htm](https://www.gnu.org/software/software.html).
 
 Vytvoření Software pro validaci diskografických záznamů (Národní diskografická databáze - původní název schválený MK ČR) bylo podpořeno z programu MK ČR NAKI II v rámci realizace projektu „Nový fonograf: naslouchejme zvuku historie“ (DG18P02OVV032).
 
