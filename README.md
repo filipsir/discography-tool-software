@@ -2,7 +2,7 @@
 Software pro validaci diskografických záznamů
 
 
-Jedná se o univerzální nástroj pro verifikaci diskografických dat, který je zakomponovaný prostřednictvím unikátního zdrojového kódu do Databáze diskografických záznamů českých nahrávek gramofonové firmy Ultraphon. Samotný nástroj je nezávislou komponentou. 
+Jedná se o univerzální nástroj pro verifikaci diskografických dat, který je aplikovaný prostřednictvím unikátního zdrojového kódu do Databáze diskografických záznamů českých nahrávek gramofonové firmy Ultraphon. Samotný nástroj je nezávislou komponentou. 
 
 Volně dostupný softwarový nástroj umožňuje automatickou kontrolu kompletnosti diskografického záznamu a jeho online opravy. Vyvinutý software byl ověřen a aktuálně používán na portále Diskografická databáze, kde je možné funkcionalitu testovat na vytvořených či importovaných diskografických datech.
 
