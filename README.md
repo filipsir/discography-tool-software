@@ -14,4 +14,4 @@ Software je volně dostupný pod licenci GNU GPL v3. http://www.gnu.org/licenses
 Vytvoření Software pro validaci diskografických záznamů (Národní diskografická databáze - původní název schválený MK ČR) bylo podpořeno z programu MK ČR NAKI II v rámci realizace projektu „Nový fonograf: naslouchejme zvuku historie“ (DG18P02OVV032).
 
 Technická dokumentace dostupná zde: 
-https://github.com/filipsir/discography-tool-software/blob/main/2022-R-Nastroj-pro-verifikaci-diskografickych-dat2023n.pdf
+https://github.com/filipsir/discography-tool-software/blob/main/032%20Software%20info%20DG18P02OVV032.pdf
