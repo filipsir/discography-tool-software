@@ -1,10 +1,9 @@
 # discography-tool-software
 Software pro validaci diskografických záznamů
 
+Jedná se o univerzální nástroj pro verifikaci diskografických záznamů, který byl ověřen a aplikován na nově vzniklé specializované veřejné databázi Databáze diskografických záznamů českých nahrávek gramofonové firmy Ultraphon. Prostřednictvím unikátního zdrojového kódu je zakomponovaný do portálu na adrese diskografie.nm.cz a je jeho nezávislou komponentou.
 
-Jedná se o univerzální nástroj pro verifikaci diskografických záznamů, který byl ověřen a aplikován na nově vzniklé specializované veřejné databázi Databáze diskografických záznamů českých nahrávek gramofonové firmy Ultraphon. Prostřednictvím unikátního zdrojového kódu je zakomponovaný do portálu a je jeho nezávislou komponentou. 
-
-Volně dostupný softwarový nástroj umožňuje automatickou kontrolu kompletnosti diskografického záznamu a jeho online opravy. Vyvinutý software je aplikován na nově vzniklé databazi a datech byl ověřen a aktuálně používán na portále Diskografická databáze, kde je možné funkcionalitu testovat na vytvořených či importovaných diskografických datech.
+Volně dostupný softwarový nástroj umožňuje jak automatickou kontrolu kompletnosti diskografického záznamu, tak jeho online úpravy. Jeho funkcionality byly otestovány na vytvořených či importovaných diskografických datech firmy Ultraphon.
 
 Portál je dostupný http://diskografie.nm.cz/
 
